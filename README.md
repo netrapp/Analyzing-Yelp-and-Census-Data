@@ -1,4 +1,4 @@
-Analyzing Yelp and Census Data
+# Analyzing Yelp and Census Data
 
 In this project, I analyzed Yelp and Census data using Snowflake. The goal of this project was analyze relationships between the two datasets on a chosen topic. I decided to analyze the relationship between restaurant star ratings and different demographics.
 
